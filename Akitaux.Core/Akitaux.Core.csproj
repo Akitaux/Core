@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>Akitaux</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Voltaic.Core" Version="0.2.3-build-00006" />
+    <PackageReference Include="Voltaic.Serialization" Version="0.2.1-build-00011" />
+  </ItemGroup>
+
+</Project>
